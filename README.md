@@ -44,6 +44,7 @@ _Web performance_
 
 - Using rem instead of px for almost all measurements (left px for things 4px and smaller because it barely makes a difference). Using rem because if a user has a low resolution or scales their page using browser zoom controls the page will retain it's intended composition
 - HTML: Using the BEM (Block Element Modifier) notation for class names (.block\_\_element--modifier)
+- Custom made 12 row grid without flexbox or grids
 - CSS: Using the 7-1 pattern for folder structure
 - A bit of extra flashiness for the showcase while keeping a friendly user experience based on current trends
 - Project-wide font definitions, colors, and more (for tweaking in one file instead of changing all elements that use specific properties)
