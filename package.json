@@ -1,0 +1,22 @@
+{
+  "name": "rent-a-park",
+  "version": "1.0.0",
+  "description": "Traditional CSS showcase. No grid, no flexbox.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahvdesign/rent-a-park.git"
+  },
+  "author": "Alexander Henriquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahvdesign/rent-a-park/issues"
+  },
+  "homepage": "https://github.com/ahvdesign/rent-a-park#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
