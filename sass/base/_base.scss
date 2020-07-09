@@ -1,0 +1,15 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%; /* This effectively changes the root font size to 10px to make rem calculations easier mathematically and it has the added benefit of displaying very small text if it is left unstyled, which is a great visual way of seeing what still needs to be worked on regarding the typography, also extremely useful for setting media queries */
+}
