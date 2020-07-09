@@ -16,7 +16,8 @@
     "url": "https://github.com/ahvdesign/rent-a-park/issues"
   },
   "homepage": "https://github.com/ahvdesign/rent-a-park#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "node-sass": "^4.14.1"
   }
 }
