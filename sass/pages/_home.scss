@@ -6,7 +6,7 @@
 
 .section-features {
   margin-top: -20vh;
-  padding: 20rem 0;
+  padding: 40rem 0;
   background-image: linear-gradient(
       to right bottom,
       rgba($color-primary-light, 0.8),
@@ -16,4 +16,10 @@
     background-size: cover;
 
     clip-path: polygon(0 20vh, 100% 0, 100% 80vh, 0% 100%);
+}
+
+.section-parks {
+  margin-top: -30vh;
+  background-color: $color-grey-light-1;
+  padding: 35rem 0 50rem;
 }
