@@ -298,7 +298,7 @@ body {
   padding: 40rem 0;
   background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.8), rgba(40, 180, 133, 0.8)), url(../img/nat-4.jpg);
   background-size: cover;
-  clip-path: polygon(0 20vh, 100% 0, 100% 80vh, 0% 100%); }
+  clip-path: polygon(0 20vh, 100% 0, 100% 80%, 0% 100%); }
 
 .section-parks {
   margin-top: -30vh;
